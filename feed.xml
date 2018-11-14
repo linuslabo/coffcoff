@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CoffCoff</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Pensieri in segmentation fault
 </description>
-    <link>http://cascone.net/coffcoff/</link>
-    <atom:link href="http://cascone.net/coffcoff/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Nov 2018 16:49:25 +1000</pubDate>
-    <lastBuildDate>Tue, 13 Nov 2018 16:49:25 +1000</lastBuildDate>
+    <link>http://coffcoff.cascone.net/</link>
+    <atom:link href="http://coffcoff.cascone.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Nov 2018 10:01:09 +1000</pubDate>
+    <lastBuildDate>Wed, 14 Nov 2018 10:01:09 +1000</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Sat, 10 Oct 2015 01:39:40 +1000</pubDate>
-        <link>http://cascone.net/coffcoff/2015/10/10/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://cascone.net/coffcoff/2015/10/10/welcome-to-jekyll/</guid>
+        <link>http://coffcoff.cascone.net/2015/10/10/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2015/10/10/welcome-to-jekyll/</guid>
         
         
       </item>
@@ -30,8 +30,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 01:39:40 +1000</pubDate>
-        <link>http://cascone.net/coffcoff/2015/10/09/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://cascone.net/coffcoff/2015/10/09/welcome-to-jekyll/</guid>
+        <link>http://coffcoff.cascone.net/2015/10/09/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2015/10/09/welcome-to-jekyll/</guid>
         
         
       </item>
@@ -43,8 +43,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Oct 2015 01:39:40 +1000</pubDate>
-        <link>http://cascone.net/coffcoff/2015/10/08/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://cascone.net/coffcoff/2015/10/08/welcome-to-jekyll/</guid>
+        <link>http://coffcoff.cascone.net/2015/10/08/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2015/10/08/welcome-to-jekyll/</guid>
         
         
       </item>
@@ -53,12 +53,247 @@
         <title>Welcome to Jekyll!</title>
         <description>&lt;p&gt;&lt;img src=&quot;holder.js/800x600?auto=yes&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Pavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
+&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Oct 2015 01:39:40 +1000</pubDate>
-        <link>http://cascone.net/coffcoff/2015/10/07/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://cascone.net/coffcoff/2015/10/07/welcome-to-jekyll/</guid>
+        <link>http://coffcoff.cascone.net/2015/10/07/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2015/10/07/welcome-to-jekyll/</guid>
         
+        
+      </item>
+    
+      <item>
+        <title>un singolo inedito</title>
+        <description>&lt;p&gt;Diciamo che è da alcuni giorni che ci penso. ci penso e ci ripenso.&lt;/p&gt;
+
+&lt;p&gt;E dopo tanto arrovellamento ho capito una piccola cosa: occorre scegliere. scegliere da che parte stare, cosa essere, chi frequentare, cosa imparare, come lavorare, quanto sorridere, come vestire, cosa studiare, cosa mangiare, chi aiutare, cosa combattere, cosa costruire, cosa abbracciare e cosa abbandonare. occorre scegliere quanto pagare la propria vita, quanto scommetterci, quanto rischiare.&lt;/p&gt;
+
+&lt;p&gt;Ciascuno è il custode della propria felicità e troppi sciacalli ingannatori gironzolano con troppa libertà intorno alle nostre vite. decidono le nostre scelte e ci accompagnano dove vogliono loro, tanto che alla fine non ha più senso essere nati tanti e tanto diversi, perché tutti dobbiamo desiderare le stesse cose (che casualmente vendono proprio loro).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/un_singolo_inedito_640.jpg&quot; alt=&quot;Singing happily&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Appena prima che nascessi il buon Padre ha pronunciato una parola. una parola che non ha più ripetuto. una parola che sei tu.&lt;/p&gt;
+
+&lt;p&gt;Ti ha creato come un prodigio, come la sua più bella opera d’arte.&lt;/p&gt;
+
+&lt;p&gt;Ha posto dentro di te alcuni doni che ha pensato per te, perché desidera per te una vita bella, bella!&lt;/p&gt;
+
+&lt;p&gt;Ti ha donato occhi grandi per guardare in alto, desideri impossibili perché tu li realizzassi, un cuore per restare con te.&lt;/p&gt;
+
+&lt;p&gt;Sei esclusivo, unico, irriproducibile.&lt;/p&gt;
+
+&lt;p&gt;Nascondi una melodia pensata solo per te.&lt;/p&gt;
+
+&lt;p&gt;Un singolo inedito.&lt;/p&gt;
+
+&lt;p&gt;Allora puoi anche non indossare abiti firmati, puoi anche non passare ogni due giorni dal parrucchiere, puoi anche sbagliare colori e parole, puoi anche dormire la notte, puoi ingrassare, puoi sognare di diventare uno spazzino, puoi cantare per strada e ballare alla stazione, puoi dire cose stupide agli intelligenti e cose serie a chi non vive sul serio, puoi inchinarti dinanzi a un mendicante e stringere la mano a un re, puoi sedere accanto agli esclusi, puoi amare canzoni che non piacciono a nessuno, puoi stare a casa il sabato sera, puoi fare quello che dice il tuo cuore senza perdere punti in classifica, senza diventare una nullità.&lt;/p&gt;
+
+&lt;p&gt;Perché è nelle piccolissime cose che si nascondono le più grandi felicità e  i punti in classifica li conta solo chi ha il terrore di diventarlo, una nullità, di chi si danna per ricevere attenzione, favore, amore, chi crede ancora di poterlo comprare l’amore, che non si ricorda come si fa ad allungare le braccia e porgere le mani per accogliere un regalo che non sa come ricambiare.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 Nov 2011 04:42:32 +1000</pubDate>
+        <link>http://coffcoff.cascone.net/2011/11/27/singolo-inedito/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2011/11/27/singolo-inedito/</guid>
+        
+        <category>Dio</category>
+        
+        <category>scegliere</category>
+        
+        <category>scelta</category>
+        
+        <category>singolo</category>
+        
+        
+        <category>Pillole</category>
+        
+      </item>
+    
+      <item>
+        <title>di notte</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/img/di_notte.jpg&quot; alt=&quot;Di notte&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;l’ombra leggera&lt;/p&gt;
+
+&lt;p&gt;non riscalda i passi&lt;/p&gt;
+
+&lt;p&gt;del vagabondo che danza&lt;/p&gt;
+
+&lt;p&gt;senza guardare la luna&lt;/p&gt;
+
+&lt;p&gt;ma lo sguardo non mente&lt;/p&gt;
+
+&lt;p&gt;la notte non spaventa&lt;/p&gt;
+
+&lt;p&gt;le nuvole silenziose&lt;/p&gt;
+
+&lt;p&gt;combattono le stelle&lt;/p&gt;
+
+&lt;p&gt;per gli amici&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Jun 2010 05:52:32 +1000</pubDate>
+        <link>http://coffcoff.cascone.net/2010/06/02/di-notte/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2010/06/02/di-notte/</guid>
+        
+        <category>notte</category>
+        
+        <category>stelle</category>
+        
+        <category>vagabondo</category>
+        
+        
+        <category>Pillole</category>
+        
+      </item>
+    
+      <item>
+        <title>sii felice ORA!</title>
+        <description>&lt;p&gt;di Madre Teresa di Calcutta&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cascone.net/coffcoff/wp-content/uploads/2010/04/cielo1.jpg&quot;&gt;&lt;img style=&quot;display: inline; border: 0px;&quot; title=&quot;cielo&quot; src=&quot;/assets/img/sii_felice_ora.jpg&quot; border=&quot;0&quot; alt=&quot;cielo&quot; width=&quot;374&quot; height=&quot;290&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Non aspettare di finire l’università,&lt;/p&gt;
+
+&lt;p&gt;di innamorarti,&lt;/p&gt;
+
+&lt;p&gt;di trovare lavoro,&lt;/p&gt;
+
+&lt;p&gt;di sposarti,&lt;/p&gt;
+
+&lt;p&gt;di avere figli,&lt;/p&gt;
+
+&lt;p&gt;di vederli sistemati,&lt;/p&gt;
+
+&lt;p&gt;di perdere quei dieci chili,&lt;/p&gt;
+
+&lt;p&gt;che arrivi il venerdì sera o la domenica mattina,&lt;/p&gt;
+
+&lt;p&gt;la primavera,&lt;/p&gt;
+
+&lt;p&gt;l’estate,&lt;/p&gt;
+
+&lt;p&gt;l’autunno o l’inverno…&lt;/p&gt;
+
+&lt;p&gt;Non c’è momento migliore di questo per essere felice…&lt;/p&gt;
+
+&lt;p&gt;La felicità è un percorso, non una destinazione.&lt;/p&gt;
+
+&lt;p&gt;Lavora come se non avessi bisogno di denaro,&lt;/p&gt;
+
+&lt;p&gt;ama come se non ti avessero mai ferito e balla… come se non ti vedesse nessuno.&lt;/p&gt;
+
+&lt;p&gt;Ricordati che la pelle avvizzisce,&lt;/p&gt;
+
+&lt;p&gt;i capelli diventano bianchi e i giorni diventano anni…&lt;/p&gt;
+
+&lt;p&gt;Ma l’importante non cambia: la tua forza e la tua convinzione non hanno età.&lt;/p&gt;
+
+&lt;p&gt;Il tuo spirito è il piumino che tira via qualsiasi ragnatela.&lt;/p&gt;
+
+&lt;p&gt;Dietro ogni traguardo c’è una nuova partenza.&lt;/p&gt;
+
+&lt;p&gt;Dietro ogni risultato c’è un’altra sfida.&lt;/p&gt;
+
+&lt;p&gt;Finché sei vivo, sentiti vivo.&lt;/p&gt;
+
+&lt;p&gt;Vai avanti, anche quando tutti si aspettano che lasci perdere.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Apr 2010 22:09:37 +1000</pubDate>
+        <link>http://coffcoff.cascone.net/2010/04/02/sii-felice-ora/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2010/04/02/sii-felice-ora/</guid>
+        
+        
+        <category>Testi memorabili</category>
+        
+      </item>
+    
+      <item>
+        <title>Desiderata</title>
+        <description>&lt;p&gt;&lt;em&gt;TROVATA NELL’ANTICA CHIESA DI SAN PAOLO - BALTIMORA&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;DATATA 1692 (traduzione di Enrico Orofino)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Passa tranquillamente tra il rumore e la fretta, e ricorda quanta pace può esserci nel silenzio. Finché è possibile senza doverti abbassare, sii in buoni rapporti con tutte le persone. Di’ la verità con calma e chiarezza; e ascolta gli altri, anche i noiosi e gli ignoranti; anche loro hanno una storia da raccontare. Evita le persone volgari ed aggressive; esse opprimono lo spirito. Se ti paragoni agli altri, corri il rischio di far crescere in te orgoglio e acredine, perché sempre ci saranno persone più in basso o più in alto di te. Gioisci dei tuoi risultati così come dei tuoi progetti. Conserva l’interesse per il tuo lavoro, per quanto umile; è ciò che realmente possiedi per cambiare le sorti del tempo. Sii prudente nei tuoi affari, perché il mondo è pieno di tranelli. Ma ciò non acciechi la tua capacità di distinguere la virtù; molte persone lottano per grandi ideali, e dovunque la vita è piena di eroismo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/desiderata.jpg&quot; alt=&quot;Desiderata&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sii te stesso. Soprattutto non fingere negli affetti e neppure sii cinico riguardo all’amore; poiché a dispetto di tutte le aridità e disillusioni esso è perenne come l’erba. Accetta benevolmente gli ammaestramenti che derivano dall’età, lasciando con un sorriso sereno le cose della giovinezza. Coltiva la forza dello spirito per difenderti contro l’improvvisa sfortuna. Ma non tormentarti con l’immaginazione. Molte paure nascono dalla stanchezza e dalla solitudine. Al di là di una disciplina morale, sii tranquillo con te stesso. Tu sei figlio dell’universo, non meno degli alberi e delle stelle; tu hai diritto ad essere qui. E che ti sia chiaro o no, non vi è dubbio che l’universo ti si stia schiudendo come dovrebbe. Perciò sii in pace con Dio, comunque tu Lo concepisca, e qualunque siano le tue lotte e le tue aspirazioni, conserva la pace con la tua anima pur nella rumorosa confusione della vita. Con tutti i suoi inganni, i lavori ingrati e i sogni infranti, è ancora un mondo stupendo. Fai attenzione. Cerca di essere felice.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Feb 2010 04:25:22 +1000</pubDate>
+        <link>http://coffcoff.cascone.net/2010/02/06/desiderata/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2010/02/06/desiderata/</guid>
+        
+        
+        <category>Testi memorabili</category>
+        
+      </item>
+    
+      <item>
+        <title>qui, ora!</title>
+        <description>&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;a href=&quot;http://cascone.net/coffcoff/wp-content/uploads/2010/01/dagrande61.jpg&quot;&gt;&lt;img style=&quot;display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;&quot; title=&quot;dagrande&quot; src=&quot;http://cascone.net/coffcoff/wp-content/uploads/2010/01/dagrande_thumb1.jpg&quot; border=&quot;0&quot; alt=&quot;dagrande&quot; width=&quot;293&quot; height=&quot;205&quot; /&gt;&lt;/a&gt;[audio:divenire.mp3|autostart=yes]
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  &lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;br /&gt; &lt;/span&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Fermati. Guardati, esisti. Hai una forma, un colore, un calore, un corpo. Puoi toccare le cose, puoi spostarle, accarezzarle. Sono fredde, lisce, ruvide e polverose, chiare e scure, brillanti. Occupano un posto sul mondo. Hanno colori, tanti. Puoi vederli. Sei seduto. Stai respirando. Sei al sicuro.&lt;/p&gt;
+
+&lt;p&gt;Sai emettere suoni. Un mondo di suoni, che simboleggiano cose. Cose che esistevano già. Sai cantare, urlare, bisbigliare, sbadigliare. Ascolti chi lo fa. Il vento, le piante, gli uccelli, gli altri come te. Alcuni sono belli, piacevoli, altri ti danno fastidio. Provi fastidio. Hai fame. quanti sapori riesci a distinguere. quante prelibatezze ti regalano il loro gusto.&lt;/p&gt;
+
+&lt;p&gt;Il tuo corpo non sa stare fermo. Mai. Miliardi di piccole forme e colori si spostano in ogni direzione dentro di te, cambiano forma e colore. Ti stai trasformando. Hai bisogno di qualcosa. No. Pensi. Sai creare immagini, visioni, luci. Conosci mille storie, mille te ne hanno raccontate. Sai stare in silenzio. Ricordi. Immagina. Cosa sarai domani?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cascone.net/coffcoff/wp-content/uploads/2010/01/dagrande71.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tutto cambia ogni momento, ma una cosa resta uguale in eterno. Tu sei qui. Tu sei ora.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_____&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;_____&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;*la foto è di &lt;strong&gt;&lt;span style=&quot;color: #888888;&quot;&gt;&lt;a title=&quot;Collegamento al album di Da grande voglio fare il polimero dello stirene.&quot; rel=&quot;dc:creator cc:attributionURL&quot; href=&quot;http://www.flickr.com/photos/elogiodellafuga/&quot; target=&quot;_blank&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Da grande voglio fare il polimero dello stirene&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;color: #000000;&quot;&gt;,&lt;span style=&quot;font-weight: normal;&quot;&gt; la musica è &lt;em&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=tAI2doCUbNc&quot; target=&quot;_blank&quot;&gt;Divenire &lt;/a&gt;&lt;/em&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=tAI2doCUbNc&quot; target=&quot;_blank&quot;&gt;di Ludovico Einaudi&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jan 2010 05:30:53 +1000</pubDate>
+        <link>http://coffcoff.cascone.net/2010/01/29/qui-ora/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2010/01/29/qui-ora/</guid>
+        
+        
+        <category>Pillole</category>
+        
+      </item>
+    
+      <item>
+        <title>Difendiamo l&amp;#8217;allegria!</title>
+        <description>&lt;p style=&quot;text-align: left;&quot;&gt;
+  Quelli della televisione non sono fatti di carne, non hanno calore, spessore, non puoi pizzicarli né spingerli, non hanno odore, non puoi morderli, puoi provare a urlare qualcosa, ma non ti sentiranno perché sono sordi. Per qualche momento potresti pensare che ti abbiano sentito, che stiano parlando proprio a te, che possano aiutarti, fornirti delle risposte. Loro fingeranno di si, ma non prestare ascolto: mentono. Non sanno cosa dirti, come non sanno cosa dire a se stessi. Cercano un senso come te, e per essere lì ad elargire consigli, è probabile che lo troveranno molto più tardi di te. Si vestono e parlano da gran signori, vogliono spiegarti come funziona la vita. La loro vita è una fuga. Ti mostrano sorrisi smaglianti e calano il sipario su tutte le loro sconfitte, decorandole con profonde giustificazioni, e combattono le rughe come il colera. Minano alla tua stabilità, ti vogliono triste come loro.
+&lt;/p&gt;
+&lt;figure style=&quot;width: 481px&quot; class=&quot;wp-caption aligncenter&quot;&gt;
+
+&lt;img style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; title=&quot;Al tramonto, liberi&quot; alt=&quot;Al tramonto, liberi&quot; src=&quot;http://cascone.net/coffcoff/wp-content/uploads/2009/12/2166043959_dc2ec8e8a1_b1.jpg&quot; width=&quot;481&quot; height=&quot;428&quot; border=&quot;0&quot; /&gt;&lt;figcaption class=&quot;wp-caption-text&quot;&gt;Foto di ►Voj►&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  [audio:defendemos_alegria.mp3]
+&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;
+  (&lt;a href=&quot;http://www.youtube.com/watch?v=RqqydjH401o&amp;amp;feature=related&quot; target=&quot;_blank&quot;&gt;Roy Paci &amp;amp; Aretuska &amp;#8211; Defendemos la alegria&lt;/a&gt;)
+&lt;/p&gt;
+
+&lt;p&gt;Ma noi, noi che siamo vivi, noi che mangiamo, corriamo, cantiamo, balliamo, noi che sappiamo abbracciarci, che gustiamo il calore del sole e sentiamo il freddo, noi che amiamo il caminetto e i plaid,  noi che sappiamo alzare gli occhi, noi che gli odori ci fanno impazzire, noi che ancora ci sforziamo di pensare, di muovere il cuore, noi che ancora piangiamo, che sappiamo che la nostra casa è altrove. Noi che la Guernica non si capisce niente. Noi che siamo strani, troppo colorati o troppo monocromatici, troppo allegri o troppo informali, noi che siamo come ci pare, che balliamo quando vogliamo ballare, cantiamo quando vogliamo cantare, noi che ruzzolare giù da una montagna è un’esperienza da fare, noi che siamo orgogliosamente la Parola unica che Dio ha pronunciato quando siamo nati.&lt;/p&gt;
+
+&lt;p&gt;Noi.. difendiamo l’allegriaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!! ^_&lt;strong&gt;_&lt;/strong&gt;_&lt;strong&gt;_&lt;/strong&gt;_&lt;strong&gt;_&lt;/strong&gt;_&lt;strong&gt;_&lt;/strong&gt;____^&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Dec 2009 04:42:42 +1000</pubDate>
+        <link>http://coffcoff.cascone.net/2009/12/05/noi-difendiamo-lallegria/</link>
+        <guid isPermaLink="true">http://coffcoff.cascone.net/2009/12/05/noi-difendiamo-lallegria/</guid>
+        
+        <category>allegria</category>
+        
+        <category>finzione</category>
+        
+        <category>tv</category>
+        
+        
+        <category>Pillole</category>
         
       </item>
     
