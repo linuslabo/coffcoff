@@ -571,6 +571,9 @@ img {
   .icon > svg path {
     fill: #2e3439; }
 
+a {
+  color: #AAA; }
+
 /**
  * Site header
  */
@@ -595,7 +598,9 @@ img {
 
 .post-nav {
   text-align: center;
-  padding: 1rem; }
+  padding: 1rem;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.5em; }
 
 .post-title {
   display: block;
