@@ -1,5 +1,7 @@
-# urban-theme
+# CoffCoff
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
+CoffCoff is a personal blog, resurrected and ported from wordpress only for sentimental reasons.
 
-Live-Demo: http://narkotyk.net/
+The blog is in ITALIAN.
+
+Built and written with :heart:, :coffee:, [jekyll](https://github.com/jekyll/jekyll) and the [urban-theme](https://github.com/midzer/urban-theme) with many cosmetic updates.
