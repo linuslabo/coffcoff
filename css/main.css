@@ -598,7 +598,12 @@ img {
   padding: 1rem; }
 
 .post-title {
-  display: block; }
+  display: block;
+  margin-bottom: 0rem; }
+
+.post-date {
+  color: #AAA;
+  font-family: 'Quicksand', sans-serif; }
 
 /**
  * override column size for mobile
